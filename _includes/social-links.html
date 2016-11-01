@@ -88,4 +88,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.resumepic %}
+        <a class="link" data-title="Resume Download" href="{{site.url}}/{{site.resumepdf}}">
+            <svg class="icon icon-download"><use xlink:href="#icon-download"></use></svg>
+        </a>
+    {% endif %}
 </div>
