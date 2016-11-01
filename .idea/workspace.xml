@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f672cf8-440f-4d64-8d0f-e50ea6eab2a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-07-26-munch-money.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-08-02-eir-health-dashboard.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-01-23-indigo-jekyll-theme.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/profile.jpg" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons.html" afterPath="$PROJECT_DIR$/_includes/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/social-links.html" afterPath="$PROJECT_DIR$/_includes/social-links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="yuetinggg.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,12 +72,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resume.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state>
               <first_editor vertical-scroll-proportion="0.17381229">
                 <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state>
+              <first_editor vertical-scroll-proportion="0.069524914">
+                <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -142,6 +142,7 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/contact.md" />
         <option value="$PROJECT_DIR$/resume.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -735,6 +736,17 @@
         <state>
           <first_editor vertical-scroll-proportion="0.17381229">
             <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state>
+          <first_editor vertical-scroll-proportion="0.069524914">
+            <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
             <folding />
           </first_editor>
           <second_editor />
